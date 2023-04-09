@@ -1,0 +1,23 @@
+.appItemContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  border-radius: 5px;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  width: 100px;
+  background-color: white;
+}
+
+.app-img {
+  height: 30px;
+  width: 30px;
+}
+
+.app-name {
+  font-size: 10px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}

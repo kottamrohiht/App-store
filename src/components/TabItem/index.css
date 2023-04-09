@@ -1,0 +1,14 @@
+.displayText {
+  font-size: 15px;
+  font-weight: 300;
+  font-weight: 'Roboto';
+  margin-right: 10px;
+  border: 0px;
+  cursor: pointer;
+}
+
+.active-style {
+  color: #2563eb;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #2563eb;
+}
